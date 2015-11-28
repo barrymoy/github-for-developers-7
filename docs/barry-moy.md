@@ -7,3 +7,5 @@
 **Favorite Food:** Fried Chicken
 
 **Hobby:** Running
+
+**Favorite Color:** Blue
