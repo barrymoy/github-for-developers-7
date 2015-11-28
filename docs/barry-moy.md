@@ -9,3 +9,5 @@
 **Hobby:** Running
 
 **Favorite Color:** Blue
+
+**Favorite Fruit:** Watermelon
